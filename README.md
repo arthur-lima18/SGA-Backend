@@ -18,7 +18,6 @@ npx prisma studio
 ```
 
 ## Tecnologias utilizadas
-- [React.JS](https://pt-br.reactjs.org/)
 - [Node.JS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Prisma](https://www.prisma.io/)
