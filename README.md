@@ -23,6 +23,7 @@ npx prisma studio
 - [Prisma](https://www.prisma.io/)
 - [Fastify](https://www.fastify.io/)
 - [SQLite](https://www.sqlite.org/index.html/)
+- [Jest](https://jestjs.io)
 
 ## Desenvolvedores do projeto
 - [Arthur Lima](https://github.com/arthur-lima18)
